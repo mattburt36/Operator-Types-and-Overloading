@@ -1,0 +1,15 @@
+﻿'OperatorTypesAndOverloading.exe' (Win32): Loaded 'C:\Users\Matt\source\repos\OperatorTypesAndOverloading\Debug\OperatorTypesAndOverloading.exe'. Symbols loaded.
+'OperatorTypesAndOverloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'OperatorTypesAndOverloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'OperatorTypesAndOverloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'OperatorTypesAndOverloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'OperatorTypesAndOverloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'OperatorTypesAndOverloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+'OperatorTypesAndOverloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-localization-l1-2-0.dll'. 
+'OperatorTypesAndOverloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-processthreads-l1-1-1.dll'. 
+'OperatorTypesAndOverloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-file-l1-2-0.dll'. 
+'OperatorTypesAndOverloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-timezone-l1-1-0.dll'. 
+'OperatorTypesAndOverloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-file-l2-1-0.dll'. 
+'OperatorTypesAndOverloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-synch-l1-2-0.dll'. 
+The thread 0x2570 has exited with code 0 (0x0).
+The program '[6724] OperatorTypesAndOverloading.exe' has exited with code 0 (0x0).
